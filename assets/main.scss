@@ -1,0 +1,16 @@
+// @import "~bootstrap/scss/bootstrap";
+// @import "~bootstrap-vue/src/index.scss";
+
+// .btn {
+// 	border-radius: 10px;
+// }
+
+@import "~@chancedigital/animate.scss/animate";
+
+div#__nuxt,
+div#__layout {
+	height: 100%;
+}
+main {
+	padding-top: 120px;
+}
